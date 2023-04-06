@@ -1,0 +1,15 @@
+C:\Users\gundu\OneDrive\Desktop\görsel\ÜniSayfa\EntitiyLayer\bin\Debug\net6.0\EntitiyLayer.deps.json
+C:\Users\gundu\OneDrive\Desktop\görsel\ÜniSayfa\EntitiyLayer\bin\Debug\net6.0\EntitiyLayer.dll
+C:\Users\gundu\OneDrive\Desktop\görsel\ÜniSayfa\EntitiyLayer\bin\Debug\net6.0\EntitiyLayer.pdb
+C:\Users\gundu\OneDrive\Desktop\görsel\ÜniSayfa\EntitiyLayer\obj\Debug\net6.0\EntitiyLayer.csproj.AssemblyReference.cache
+C:\Users\gundu\OneDrive\Desktop\görsel\ÜniSayfa\EntitiyLayer\obj\Debug\net6.0\EntitiyLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gundu\OneDrive\Desktop\görsel\ÜniSayfa\EntitiyLayer\obj\Debug\net6.0\EntitiyLayer.AssemblyInfoInputs.cache
+C:\Users\gundu\OneDrive\Desktop\görsel\ÜniSayfa\EntitiyLayer\obj\Debug\net6.0\EntitiyLayer.AssemblyInfo.cs
+C:\Users\gundu\OneDrive\Desktop\görsel\ÜniSayfa\EntitiyLayer\obj\Debug\net6.0\EntitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\gundu\OneDrive\Desktop\görsel\ÜniSayfa\EntitiyLayer\obj\Debug\net6.0\EntitiyLayer.dll
+C:\Users\gundu\OneDrive\Desktop\görsel\ÜniSayfa\EntitiyLayer\obj\Debug\net6.0\refint\EntitiyLayer.dll
+C:\Users\gundu\OneDrive\Desktop\görsel\ÜniSayfa\EntitiyLayer\obj\Debug\net6.0\EntitiyLayer.pdb
+C:\Users\gundu\OneDrive\Desktop\görsel\ÜniSayfa\EntitiyLayer\obj\Debug\net6.0\ref\EntitiyLayer.dll
+C:\Users\gundu\OneDrive\Desktop\görsel\ÜniSayfa\EntitiyLayer\bin\Debug\net6.0\CoreLayer.dll
+C:\Users\gundu\OneDrive\Desktop\görsel\ÜniSayfa\EntitiyLayer\bin\Debug\net6.0\CoreLayer.pdb
+C:\Users\gundu\OneDrive\Desktop\görsel\ÜniSayfa\EntitiyLayer\obj\Debug\net6.0\EntitiyLayer.csproj.CopyComplete

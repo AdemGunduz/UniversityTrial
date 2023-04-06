@@ -1,0 +1,25 @@
+﻿@model EntitiyLayer.Concrete.Announcement
+
+<form method="post">
+    <div class="border pt-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary">Duyuru Ekle</h2>
+            <hr />
+        </div>
+        <div asp-validation-summary="All"></div>
+        <div class="mb-3">
+            <label asp-for="AnnouncementTitle">Duyuru Başlığı </label>
+            <input asp-for="AnnouncementTitle" class="form-control" />
+            <span asp-validation-for="AnnouncementTitle" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="AnnouncementContent">Duyuru Açıklaması</label>
+            <input asp-for="AnnouncementContent" class="form-control" />
+            <span asp-validation-for="AnnouncementContent" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary" style="widht:150px">Oluştur</button>
+        <a asp-controller="Announcement" asp-action="List" class="btn btn-secondary" style="150px">
+            Listeye Dön
+        </a>
+    </div>
+</form>
